@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.para{
+    text-align: justify;
+}
+
+.h4 font{
+  font-family: "Edu TAS Beginner", cursive;
+  font-optical-sizing: auto;
+ 
+}
